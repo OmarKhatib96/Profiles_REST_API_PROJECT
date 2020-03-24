@@ -18,3 +18,4 @@ virtualenv==20.0.13
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
 zipp==1.2.0
+uWSGI==2.0.15
